@@ -1,5 +1,5 @@
 
-# 🏆 Code Vipassana Season 14 — ADK Visual Builder Agent
+# 🏆 Code Vipassana Season 14 ADK Visual Builder Agent
 
 > **An Agentic AI Startup Advisor running with Google Cloud Agent Development Kit (ADK)**
 
